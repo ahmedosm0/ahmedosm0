@@ -1,6 +1,6 @@
 ### About Me:  
 
-I'm a **AI/ML Engineer** with expertise in **Deep Learning, Computer Vision, NLP and Audio Signal Processing**. Passionate about solving complex problems with data-driven solutions, I specialize in building AI-powered applications and research-driven ML models.
+I'm an **AI/ML Engineer** with expertise in **Deep Learning, Computer Vision, NLP and Audio Signal Processing**. Passionate about solving complex problems with data-driven solutions, I specialize in building AI-powered applications and research-driven ML models.
 <h4 align="center">CONNECT WITH ME</h4>
 <table align="center">
   <tr>
