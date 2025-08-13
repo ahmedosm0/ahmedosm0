@@ -1,6 +1,6 @@
 ### About Me:  
 
-I'm an **AI/ML Engineer** with expertise in **Deep Learning, Computer Vision, NLP and Audio Signal Processing**. Passionate about solving complex problems with data-driven solutions, I specialize in building AI-powered applications and research-driven ML models.
+AI/ML Engineer specializing in deep learning, LLM applications, and MLOps. Experienced in building and deploying scalable NLP and speech processing systems. Skilled in TensorFlow, PyTorch, LangChain, and cloud deployment.
 <h4 align="center">CONNECT WITH ME</h4>
 <table align="center">
   <tr>
@@ -9,11 +9,11 @@ I'm an **AI/ML Engineer** with expertise in **Deep Learning, Computer Vision, NL
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/>
       </a>
     </td>
-    <td align="center" style="padding: 0 15px;">
+<!--     <td align="center" style="padding: 0 15px;">
       <a href="https://www.facebook.com/ahmed0sm">
         <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/>
       </a>
-    </td>
+    </td> -->
     <td align="center" style="padding: 0 15px;">
       <a href="https://discord.com/users/ahmedusman0816/">
         <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="discord" alt="discord" width="55" height="55"/>
@@ -25,27 +25,27 @@ I'm an **AI/ML Engineer** with expertise in **Deep Learning, Computer Vision, NL
 <h4 align="center">PROFILE & PORTFOLIO</h4>
 <table align="center">
   <tr>
-    <th align="center" style="padding: 0 15px;">freeCodeCamp</th>
+<!--     <th align="center" style="padding: 0 15px;">freeCodeCamp</th> -->
     <th align="center" style="padding: 0 15px;">Coursera</th>
-    <th align="center" style="padding: 0 15px;">LeetCode</th>
+<!--     <th align="center" style="padding: 0 15px;">LeetCode</th> -->
     <th align="center" style="padding: 0 15px;">HackerRank</th>
   </tr>
   <tr>
-    <td align="center" style="padding: 0 15px;">
+<!--     <td align="center" style="padding: 0 15px;">
       <a href='https://www.freecodecamp.org/ahmed-usman'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="65" height="50"/>
       </a>
-    </td>
+    </td> -->
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.coursera.org/user/7c99fbf68d1bd8964aa67e786261d57b'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png" title="Coursera" alt="Coursera" width="55" height="55"/>
       </a>
     </td>
-    <td align="center" style="padding: 0 15px;">
+<!--     <td align="center" style="padding: 0 15px;">
       <a href='https://leetcode.com/u/czTn68dPUc/'>
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="LeetCode" alt="LeetCode" width="55" height="55"/>
       </a>
-    </td>
+    </td> -->
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.hackerrank.com/profile/ahmadusman050'>
         <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="HackerRank" alt="HackerRank" width="55" height="55"/>
